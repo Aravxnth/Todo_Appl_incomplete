@@ -1,10 +1,10 @@
-# todoapplication
+# Todo Application
 
-A new Flutter project.
+New flutter project
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This is the second project I've done using Flutter. I have utilized stateful widgets for the first time. Since I lack some basic knowledge in Dart itself, I have decided to leave some functionalities in the app (adding new tasks, search bar, etc)
 
 A few resources to get you started if this is your first Flutter project:
 
